@@ -3,7 +3,7 @@
 My name is Michael Kochendörfer.
 
 I am learning Symfony as requirement to learn Shopware 6 Backend Development.
-So i have to learn VueJs and after that I create a small module for Shopware 6 Backend.
+So I have to learn VueJs and after that I create a small module for Shopware 6 Backend.
 Any suggestions? 
 
 After finishing the module development for shopware 6 Backend I learn Shopware 6 Frontend.
